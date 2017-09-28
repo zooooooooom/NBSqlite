@@ -40,7 +40,7 @@
 		0CE3760758E921E29C65D16E /* Pods-NBSqlite_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NBSqlite_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NBSqlite_Example/Pods-NBSqlite_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		33C614B105772389283889E5 /* Pods-NBSqlite_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NBSqlite_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-NBSqlite_Example/Pods-NBSqlite_Example.release.xcconfig"; sourceTree = "<group>"; };
 		42F1832974465A6A073ACDB6 /* Pods-NBSqlite_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NBSqlite_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-NBSqlite_Tests/Pods-NBSqlite_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		4B821701E526FB9CE9B693BF /* NBSqlite.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = NBSqlite.podspec; path = ../NBSqlite.podspec; sourceTree = "<group>"; };
+		4B821701E526FB9CE9B693BF /* NBSqlite.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = NBSqlite.podspec; path = ../NBSqlite.podspec; sourceTree = "<group>"; };
 		5A5E37D1421DD5EBD89917A2 /* Pods-NBSqlite_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NBSqlite_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NBSqlite_Tests/Pods-NBSqlite_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* NBSqlite_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NBSqlite_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -65,8 +65,8 @@
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9CC5D37C23AF518CC0658FE0 /* Pods_NBSqlite_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NBSqlite_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E45D1FF42C8C38100F166C2D /* Pods_NBSqlite_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NBSqlite_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		EEA71FB46EE59A24F59C2675 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		F10053CD6A121D5228C72855 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		EEA71FB46EE59A24F59C2675 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		F10053CD6A121D5228C72855 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
