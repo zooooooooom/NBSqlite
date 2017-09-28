@@ -1,0 +1,6 @@
+framework module NBSqlite {
+  umbrella header "NBSqlite-umbrella.h"
+
+  export *
+  module * { export * }
+}

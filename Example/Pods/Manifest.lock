@@ -1,0 +1,16 @@
+PODS:
+  - NBSqlite (0.1.0)
+
+DEPENDENCIES:
+  - NBSqlite (from `../`)
+
+EXTERNAL SOURCES:
+  NBSqlite:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NBSqlite: 6cb85cf9da7ed605fe487a06d98151d789946f38
+
+PODFILE CHECKSUM: 5c7fa4f89561e656c42d4a750fe29f2abfc146b2
+
+COCOAPODS: 1.4.0.beta.1

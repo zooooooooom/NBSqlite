@@ -1,0 +1,6 @@
+framework module Pods_NBSqlite_Example {
+  umbrella header "Pods-NBSqlite_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
