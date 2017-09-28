@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NBSqlite_Example' do
+  pod 'NBSqlite', :path => '../'
+
+  target 'NBSqlite_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
